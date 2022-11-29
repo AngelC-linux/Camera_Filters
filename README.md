@@ -1,4 +1,4 @@
-# Camera_filters
+# Camera_Filters
 El filter_Camera es una camara que interactua con botones del 1 - 6 proporcionando filtros.
 Los filtros son:
 ESC: Salir
