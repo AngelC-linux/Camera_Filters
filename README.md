@@ -11,6 +11,4 @@ ESC: Salir
 G: Guardar imagen
 C: Guardar imagen
 P: Pausa
-Accion Doble clic: dibuja circulos
-
-
+Acción Doble clic: dibuja circulos
