@@ -293,7 +293,7 @@ the "copyright" line and a pointer to where the full notice is found.
     Camera_Filters, un programa que funciona con OpenCV y muestra
     filtros por la cámara de la computadora según la entrada
     específica del teclado.
-    Copyright (C) 2022  Ángel Cardona
+    Copyright (C) 2022  José Ángel Cardona García
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
